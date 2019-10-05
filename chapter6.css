@@ -1,0 +1,22 @@
+.a {
+	height: 200px;
+ background-image:url(img/box1.jpg);
+}
+
+.b {
+	height: 200px;
+	background-image:url(img/box2.jpg);
+}
+
+.c {
+	height: 200px;
+    background-image:url(img/box3.jpg);
+}
+
+.d {
+	height: 200px;
+	background-image:url(img/box4.jpg);
+}
+.a, .b, .c, .d{
+	background-position: center;
+}
